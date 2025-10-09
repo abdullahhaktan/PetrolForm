@@ -20,6 +20,23 @@
 * **Fiyatlandırma Kontrolü:** Yakıt türlerine ait birim fiyatların kolayca girilmesine ve anlık olarak güncellenmesine olanak tanır.
 * **Form Tabanlı Kullanıcı Arayüzü:** Satış ve yönetim işlemleri için kullanıcı dostu, görsel bir form (arayüz) tabanlı yapı sunar.
 
+
+### 🚀 Nasıl Çalıştırılır?
+
+Bu proje, harici bir veritabanı veya API bağlantısı gerektirmeyen standart bir masaüstü uygulamasıdır.
+
+1.  **Projeyi Klonlama:**
+    ```bash
+    git clone [https://github.com/abdullahhaktan/PetrolForm](https://github.com/abdullahhaktan/PetrolForm)
+    cd PetrolForm
+    ```
+2.  **Çözümü Açma:**
+    * Kök dizindeki **`PetrolForm.sln`** (Solution) dosyasını **Visual Studio**'da açın.
+3.  **Derleme ve Çalıştırma:**
+    * Çözümü derleyin (`Build Solution` veya **F6**).
+    * Projeyi **`Startup Project`** olarak ayarlayın ve **F5** tuşuna basarak uygulamayı çalıştırın.
+
+
 ---
 ---
 
@@ -35,6 +52,21 @@
 * **Stock Tracking and Update:** Provides tracking of current fuel levels in tanks and allows updates when necessary for inventory management.
 * **Pricing Control:** Enables easy input and instantaneous updating of unit prices for various fuel types.
 * **Form-Based User Interface:** Offers a user-friendly, visual form-based structure for sales and management operations.
+
+### 🚀 How to Run
+
+This is a standard desktop application that does not require any external database or API configuration.
+
+1.  **Cloning the Project:**
+    ```bash
+    git clone [https://github.com/abdullahhaktan/PetrolForm](https://github.com/abdullahhaktan/PetrolForm)
+    cd PetrolForm
+    ```
+2.  **Opening the Solution:**
+    * Open the root directory's **`PetrolForm.sln`** (Solution) file using **Visual Studio**.
+3.  **Building and Running:**
+    * Build the solution in Visual Studio (`Build Solution` or **F6**).
+    * Set the project as the **`Startup Project`** and press **F5** to run the application.
 
 ---
 ---
