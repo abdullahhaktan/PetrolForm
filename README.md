@@ -145,7 +145,7 @@ It enables managers to track fuel prices, tank levels, and cash transactions eas
     ```csharp
     SqlConnection conn = new SqlConnection("Data Source=YOUR_SERVER;Initial Catalog=DbPetrol;Integrated Security=True;Encrypt=False;");
     ```
-    * You can create the database and add the relevant tables*
+    * You can create the database and add the relevant tables manually
 
 4.  **Build and Run the Application:**
     * Build the solution (`Build Solution` or **F6**).
