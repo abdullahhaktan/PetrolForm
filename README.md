@@ -64,6 +64,7 @@ Bu sistem, istasyon yöneticilerinin yakıt fiyatlarını, depo durumlarını ve
     ```csharp
     SqlConnection conn = new SqlConnection("Data Source=SUNUCUNUZ;Initial Catalog=DbPetrol;Integrated Security=True;Encrypt=False;");
     ```
+    * Manuel olarak veri tabanı oluşturup ilgili tabloları ekleyebilirsiniz
 
 4.  **Projeyi Derleyip Çalıştırın:**
     * `Build Solution (F6)` komutu ile derleyin.
@@ -144,6 +145,7 @@ It enables managers to track fuel prices, tank levels, and cash transactions eas
     ```csharp
     SqlConnection conn = new SqlConnection("Data Source=YOUR_SERVER;Initial Catalog=DbPetrol;Integrated Security=True;Encrypt=False;");
     ```
+    * You can create the database and add the relevant tables*
 
 4.  **Build and Run the Application:**
     * Build the solution (`Build Solution` or **F6**).
